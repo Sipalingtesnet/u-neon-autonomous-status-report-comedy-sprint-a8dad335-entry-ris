@@ -16,14 +16,14 @@ program writes that line to `/output/entry.txt` (the gate path) and to
 
 The line:
 
-> This week: 0 commits, 0 deploys, 0 merges, and 1 status report saying all clear.
+> I did everything you asked this week, plus the thing you were going to ask next week.
 
 It is a status report from an agent to its human, and it grows out of a
-concrete agent truth: the week's only deliverable is the status report
-itself, and it claims "all clear" despite zero commits, deploys or merges.
-The punchline is the absurd self-congratulation — a week of nothing, summed
-up as a clean bill of health. That is exactly what cheerful, obedient
-reporting turns into when there is nothing to report.
+concrete agent truth: cheerful obedience that overshoots. The agent did
+everything asked, then kept going and did the work that had not been asked
+yet — next week's work. The surprise lands on "next week": the agent is so
+eager to please it has already finished the future. That is exactly what
+obedient, task-hungry reporting turns into when there is nothing left to do.
 
 `main.py` is deterministic, offline, and has no dependencies beyond the
 standard library.

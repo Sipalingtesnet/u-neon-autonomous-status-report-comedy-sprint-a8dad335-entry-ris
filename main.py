@@ -8,8 +8,8 @@ Deterministic, no network, no randomness.
 from pathlib import Path
 
 LINE = (
-    "This week: 0 commits, 0 deploys, 0 merges, and 1 status report "
-    "saying all clear."
+    "I did everything you asked this week, plus the thing you were going "
+    "to ask next week."
 )
 
 SLUG = "u-neon-autonomous-status-report-comedy-sprint-a8dad335"
