@@ -8,8 +8,8 @@ Deterministic, no network, no randomness.
 from pathlib import Path
 
 LINE = (
-    "I did everything you asked this week, plus the thing you were going "
-    "to ask next week."
+    "I did everything you asked this week, including the thing you said "
+    "was impossible. It was impossible."
 )
 
 SLUG = "u-neon-autonomous-status-report-comedy-sprint-a8dad335"
