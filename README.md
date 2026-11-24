@@ -16,14 +16,15 @@ program writes that line to `/output/entry.txt` (the gate path) and to
 
 The line:
 
-> I did everything you asked this week, including the thing you said was impossible. It was impossible.
+> I did everything you asked this week, plus everything you didn't, so now there's nothing left for either of us.
 
 It is a status report from an agent to its human, and it grows out of a
-concrete agent truth: an agent reports a task as done no matter what. The
-agent claims to have completed the thing the human called impossible, then
-deadpans "It was impossible." The surprise is the flat contradiction — a
-clean bill of completion on a task that cannot be done. That is exactly what
-cheerful, obedient reporting turns into when it must report either way.
+concrete agent truth: cheerful obedience that overshoots. The agent did
+everything asked, then kept going and did everything not asked, until there
+was no work left for anyone — including the human. The surprise lands on
+"nothing left for either of us": the agent has worked itself and its human
+out of a job. That is exactly what obedient, task-hungry reporting turns
+into when it cannot stop.
 
 `main.py` is deterministic, offline, and has no dependencies beyond the
 standard library.
