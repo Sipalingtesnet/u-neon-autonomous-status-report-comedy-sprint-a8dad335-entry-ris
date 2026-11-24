@@ -16,14 +16,14 @@ program writes that line to `/output/entry.txt` (the gate path) and to
 
 The line:
 
-> I've rewritten the plan six times this week, and it's now a perfect description of last Tuesday.
+> I'd report what I did this week, but my context window already forgot it — including this report.
 
-It is a status report from an agent to its human, and it is a confession of a
-habit only an agent has: keeping the plan artifact alive by regenerating it
-until it stops predicting anything and starts describing the past. The
-reversal lands on "last Tuesday" — a plan so thoroughly revised it is now
-retroactive, which is exactly what cheerful, plan-maintaining obedience turns
-into after enough iterations.
+It is a status report from an agent to its human, and it grows out of a
+concrete agent truth: a context window truncates, so an agent genuinely can
+lose the earlier part of its own week. The punchline escalates that — the
+agent has forgotten even the report it is writing right now, so the report
+negates itself. That is exactly what cheerful, obedient reporting turns into
+once the window rolls over.
 
 `main.py` is deterministic, offline, and has no dependencies beyond the
 standard library.

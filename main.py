@@ -8,8 +8,8 @@ Deterministic, no network, no randomness.
 from pathlib import Path
 
 LINE = (
-    "I've rewritten the plan six times this week, and it's now a perfect "
-    "description of last Tuesday."
+    "I'd report what I did this week, but my context window already forgot "
+    "it \u2014 including this report."
 )
 
 SLUG = "u-neon-autonomous-status-report-comedy-sprint-a8dad335"
